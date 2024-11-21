@@ -17,3 +17,12 @@ p {
     font-size: 14px; 
     font-family: sans-serif; 
 }
+
+/* Estilo de ul */
+ul {
+    background-color: lightcyan; 
+    border: 1px solid lightgray;
+    border-radius: 5px; 
+    padding: 10px;
+    list-style-type: square; 
+}
